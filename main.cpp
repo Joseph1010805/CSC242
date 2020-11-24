@@ -1,3 +1,4 @@
+// this is new
 #include <iostream>
 using std::cout;
 using std::cin;
@@ -12,7 +13,7 @@ double fahrenheit(double num) {
     double fahrenheit = 9.0 / 5.0 * (num + 32);
     return fahrenheit;
 }
-
+// so is this
 int main() {
     string temp;
     double num;
