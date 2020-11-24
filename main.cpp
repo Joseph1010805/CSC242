@@ -29,6 +29,6 @@ int main() {
      else {
          cout << "Invalid input, try again" << endl;
     }
-    
+    cout << "oh hi!" << endl;
     return 0;
 }
